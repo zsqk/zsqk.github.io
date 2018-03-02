@@ -1,0 +1,11 @@
+# Baidu
+User-agent: Baiduspider
+Disallow: /feedback/
+
+# Google
+User-agent: Googlebot
+Disallow: /feedback/
+
+# other
+User-agent: *
+Disallow: /feedback/
